@@ -76,15 +76,15 @@ python build_rag.py
 
 ## 📋 TODO
 
--   [x] 🌐 **Demo website**
--   [x] 🔓 **Release inference code**
--   [x] 🤗 **Release HuggingFace model**
--   [] 🤗 **HuggingFace Space**
--   [] 📝 **Release Technical Report**
--   [] 🔓 **Release gradio code**
--   [] 🔓 **Release RAG code**
--   [] 🔓 **Support vLLM**
--   [] 🔓 **Release training code**
+- [x] 🌐 **Demo website**
+- [x] 🔓 **Release inference code**
+- [x] 🤗 **Release HuggingFace model**
+- [] 🤗 **HuggingFace Space**
+- [] 📝 **Release Technical Report**
+- [] 🔓 **Release gradio code**
+- [] 🔓 **Release RAG code**
+- [] 🔓 **Support vLLM**
+- [] 🔓 **Release training code**
 
 ## Citation
 
