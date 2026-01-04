@@ -26,7 +26,7 @@
 ## 🔥 News
 
 
-- **[2026-1-2]** We opened the repository and uploaded the voice design models! You get it here:[VoiceSculptor](https://huggingface.co/collections/ASLP-lab/voicesculptor)
+- **[2026-1-2]** We opened the repository and uploaded the voice design models! [VoiceSculptor](https://huggingface.co/collections/ASLP-lab/voicesculptor)
 
 ## 🚀 Getting Started
 
