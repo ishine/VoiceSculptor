@@ -76,28 +76,19 @@ python build_rag.py
 
 ## 📋 TODO
 
-- [x] 🌐 **Demo website**
-- [x] 🔓 **Release inference code**
-- [x] 🤗 **Release HuggingFace model**
-- [] 🤗 **HuggingFace Space**
-- [] 📝 **Release Technical Report**
-- [] 🔓 **Release gradio code**
-- [] 🔓 **Release RAG code**
-- [] 🔓 **Support vLLM**
-- [] 🔓 **Release training code**
+-   [x] 🌐 **Demo website**
+-   [x] 🔓 **Release inference code**
+-   [x] 🤗 **Release HuggingFace model**
+-   [] 🤗 **HuggingFace Space**
+-   [] 📝 **Release Technical Report**
+-   [] 🔓 **Release gradio code**
+-   [] 🔓 **Release RAG code**
+-   [] 🔓 **Support vLLM**
+-   [] 🔓 **Release training code**
 
 ## Citation
 
 ```bibtex
-@misc{du2024cosyvoice2scalablestreaming,
-      title={CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models},
-      author={Zhihao Du and Yuxuan Wang and Qian Chen and Xian Shi and Xiang Lv and Tianyu Zhao and Zhifu Gao and Yexin Yang and Changfeng Gao and Hui Wang and Fan Yu and Huadai Liu and Zhengyan Sheng and Yue Gu and Chong Deng and Wen Wang and Shiliang Zhang and Zhijie Yan and Jingren Zhou},
-      year={2024},
-      eprint={2412.10117},
-      archivePrefix={arXiv},
-      primaryClass={cs.SD},
-      url={https://arxiv.org/abs/2412.10117},
-}
 @misc{ye2025llasascalingtraintimeinferencetime,
       title={Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis},
       author={Zhen Ye and Xinfa Zhu and Chi-Min Chan and Xinsheng Wang and Xu Tan and Jiahe Lei and Yi Peng and Haohe Liu and Yizhu Jin and Zheqi Dai and Hongzhan Lin and Jianyi Chen and Xingjian Du and Liumeng Xue and Yunlin Chen and Zhifei Li and Lei Xie and Qiuqiang Kong and Yike Guo and Wei Xue},
@@ -106,24 +97,6 @@ python build_rag.py
       archivePrefix={arXiv},
       primaryClass={eess.AS},
       url={https://arxiv.org/abs/2502.04128},
-}
-@misc{huang2025instructttsevalbenchmarkingcomplexnaturallanguage,
-      title={InstructTTSEval: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems}, 
-      author={Kexin Huang and Qian Tu and Liwei Fan and Chenchen Yang and Dong Zhang and Shimin Li and Zhaoye Fei and Qinyuan Cheng and Xipeng Qiu},
-      year={2025},
-      eprint={2506.16381},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2506.16381},
-}
-@misc{wang2025sparkttsefficientllmbasedtexttospeech,
-      title={Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens}, 
-      author={Xinsheng Wang and Mingqi Jiang and Ziyang Ma and Ziyu Zhang and Songxiang Liu and Linqin Li and Zheng Liang and Qixi Zheng and Rui Wang and Xiaoqin Feng and Weizhen Bian and Zhen Ye and Sitong Cheng and Ruibin Yuan and Zhixian Zhao and Xinfa Zhu and Jiahao Pan and Liumeng Xue and Pengcheng Zhu and Yunlin Chen and Zhifei Li and Xie Chen and Lei Xie and Yike Guo and Wei Xue},
-      year={2025},
-      eprint={2503.01710},
-      archivePrefix={arXiv},
-      primaryClass={cs.SD},
-      url={https://arxiv.org/abs/2503.01710}, 
 }
 ```
 
