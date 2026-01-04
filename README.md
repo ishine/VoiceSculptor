@@ -16,9 +16,8 @@
 
 ## Demo Video
 <p>
-  <video src="demo/demo_video.mov" 
-         controls 
-         style="width:400px; height:400px; object-fit: cover;">
+  <video src="demo/demo_video.mov"
+         style="width:400px; height:400px;">
   </video>
 </p>
 
