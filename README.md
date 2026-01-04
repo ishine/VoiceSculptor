@@ -6,7 +6,7 @@
     <b><em>VoiceSculptor: Your Voice, Designed By You</em></b>
     </p>
     <p>
-    <img src="assets/VoiceSculptor.png" style="width: 400px; height: 400px;">
+    <img src="assets/logo.png" style="width: 400px; height: 400px;">
     </p>
     <a href="https://hujingbin1.github.io/VoiceSculptor-Demo/"><img src="https://img.shields.io/badge/Demo-Page-lightgrey" alt="version"></a>
     <a href="https://huggingface.co/collections/ASLP-lab/voicesculptor"><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue' alt="HF-model"></a>
