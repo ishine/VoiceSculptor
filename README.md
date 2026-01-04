@@ -16,7 +16,7 @@
 
 ## Demo Video
 
-<div align="center">
+<div>
   <https://github.com/user-attachments/assets/88c7230f-3ad8-4f37-b7fb-33a52f2b469d>
 </div>
 
