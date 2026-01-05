@@ -92,7 +92,7 @@ python build_rag.py
       title={VoiceSculptor: Your Voice, Designed By You},
       author={Jingbin Hu and Huakang Chen and Linhan Ma and Dake Guo and Qirui Zhan and Wenhao Li and Haoyu Zhang and Kangxiang Xia and Ziyu Zhang and Wenjie Tian and Chengyou Wang and Jinrui Liang and Shuhan Guo and Zihang Yang and Bengu Wu and Binbin Zhang and Pengcheng Zhu and Pengyuan Xie and Chuan Xie and Qiang Zhang and Jie Liu and Lei Xie},
       year={2026},
-      url={GitHub - ASLP-lab/VoiceSculptor: An instruct text-to-speech model based on LLaSA and CosyVoice2 deve},
+      url={GitHub - ASLP-lab/VoiceSculptor: An instruct text-to-speech solution based on LLaSA and CosyVoice2 developed by the ASLP lab and collaborators.},
 }
 @misc{ye2025llasascalingtraintimeinferencetime,
       title={Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis},
