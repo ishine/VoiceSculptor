@@ -107,7 +107,7 @@ python build_rag.py
 - [x] 🌐 **Demo website**
 - [x] 🔓 **Release inference code**
 - [x] 🤗 **Release HuggingFace model**
-- [ ] 🤗 **HuggingFace Space**
+- [x] 🤗 **HuggingFace Space**
 - [ ] 📝 **Release Technical Report**
 - [ ] 🔓 **Release gradio code**
 - [ ] 🔓 **Release RAG code**
