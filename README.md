@@ -78,12 +78,15 @@ pip install -r requirements.txt
 ```bash
 git lfs install
 git clone https://huggingface.co/ASLP-lab/VoiceSculptor-VD
+git clone https://huggingface.co/HKUSTAudio/xcodec2
 ```
 
 ### 3. Infer
 
 For detailed instructions on how to design high-quality voice prompts,  
 please refer to [Voice Design Guide](docs/voice_design.md) or [Voice Design Guide EN](docs/voice_design_en.md).
+
+You need to specify the local paths to the voice-design model and the xcodec2 model in the infer.py file.
 
 ```bash
 python infer.py
