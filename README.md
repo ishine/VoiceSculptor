@@ -182,3 +182,7 @@ You’re welcome to join our WeChat group for technical discussions, updates.
     <img src="assets/wechat_tiamo.jpg" width="300" alt="WeChat QR Code"/>
   </span> -->
 </p>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ASLP-lab/VoiceSculptor&type=date&legend=top-left)](https://www.star-history.com/#ASLP-lab/VoiceSculptor&type=date&legend=top-left)
