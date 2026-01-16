@@ -10,7 +10,7 @@
     </p>
     <a href="https://hujingbin1.github.io/VoiceSculptor-Demo"><img src="https://img.shields.io/badge/Demo-Page-lightgrey" alt="version"></a>
     <a href="https://huggingface.co/ASLP-lab/VoiceSculptor-VD"><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue' alt="HF-model"></a>
-    <a href="https://github.com/ASLP-lab/VoiceSculptor"><img src='https://img.shields.io/badge/Report-Github?label=Technical&color=red' alt="technical report (coming soon)"></a>
+    <a href="https://arxiv.org/pdf/2601.10629"><img src='https://img.shields.io/badge/Report-Github?label=Technical&color=red' alt="technical report"></a>
     <a href="https://huggingface.co/spaces/ASLP-lab/VoiceSculptor"><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue' alt="HF-demo"></a>
     <a href="https://github.com/ASLP-lab/VoiceSculptor"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="Apache-2.0"></a>
 </div>
@@ -111,7 +111,7 @@ python build_rag.py
 - [x] 🔓 **Release inference code**
 - [x] 🤗 **Release HuggingFace model**
 - [x] 🤗 **HuggingFace Space**
-- [ ] 📝 **Release Technical Report**
+- [x] 📝 **Release Technical Report**
 - [ ] 🔓 **Release gradio code**
 - [ ] 🔓 **Release RAG code**
 - [ ] 🔓 **Support vLLM**
